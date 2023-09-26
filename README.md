@@ -1,5 +1,6 @@
 ### 2FA-Options  
 Just for personal reference really.  
+Below is just a little info I gathered, also just my personal opinion.  
 
 <br>
 
