@@ -10,15 +10,15 @@
 <br>  
 
 **2. Authenticator App** (or password manager such as: keepassxc)  
-   - harder setup
+   - harder setup (if not familiar)  
    - more secure than sms
    - better option than sms  
 
   <br>  
 
 **3. Security Key** (yubikey or similar)  
-   - hardest setup (can be confusing)  
-   - best security  
+   - hardest setup (can be confusing if not familiar)  
+   - best security (requires physical device plugged into computer)    
    - best overall  
 
   <br>  
