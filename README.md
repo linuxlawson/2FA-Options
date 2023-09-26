@@ -1,21 +1,27 @@
-### 2FA-Options
+### 2FA-Options  
 
-2FA Options
+  
 
-1. SMS(text message)
-    easiest setup, least secure, better than no 2FA
-
-
-2. Authenticator App (or password manager such as: keepassxc)
-    harder setup, more secure than sms, better option than sms
+1. SMS/Text message
+   - easiest setup
+   - least secure
+   - better than no 2FA  
 
 
-3. Security Key (yubikey or similar)
-    hardest setup, best security, best overall    
+3. Authenticator App (or password manager such as: keepassxc)
+   - harder setup
+   - more secure than sms
+   - better option than sms  
 
 
-4. Mobile App (phone app)
-    have not tried
+5. Security Key (yubikey or similar)
+    - hardest setup
+    - best security
+    - best overall      
+
+
+6. Mobile App (phone app)
+    - have not tried  
 
 
 Recovery Codes
