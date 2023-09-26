@@ -1,4 +1,5 @@
 ### 2FA-Options  
+Just for personal reference really.  
 
 <br>
 
@@ -13,7 +14,7 @@
 **2. Authenticator App** (or password manager such as: keepassxc)  
    - harder setup (if not familiar)  
    - more secure than sms
-   - more convenient than sms
+   - more convenient 
    - better option than sms  
 
   <br>  
