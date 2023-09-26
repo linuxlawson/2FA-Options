@@ -5,6 +5,7 @@
 **1. SMS/Text message**  
    - easy setup
    - least secure
+   - least convenient
    - better than no 2FA
      
 <br>  
@@ -12,13 +13,15 @@
 **2. Authenticator App** (or password manager such as: keepassxc)  
    - harder setup (if not familiar)  
    - more secure than sms
+   - more convenient than sms
    - better option than sms  
 
   <br>  
 
 **3. Security Key** (yubikey or similar)  
    - hardest setup (can be confusing if not familiar)  
-   - best security (requires physical device plugged into computer)    
+   - best security (requires physical device plugged into computer)
+   - convenient    
    - best overall  
 
   <br>  
