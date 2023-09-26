@@ -36,5 +36,6 @@
 <br>  
 
 **Passkeys (optional)**  
-    Passkeys are a seperate option from 2FA and not required  
-    You can use these for personal convenience  
+    Passkeys are a seperate option from 2FA and not required.    
+    You can use these for personal convenience.  
+    
