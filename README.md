@@ -2,38 +2,39 @@
 
 <br>
 
-  
-
-1. SMS/Text message
-   - easiest setup
+**1. SMS/Text message**
+   - easy setup
    - least secure
-   - better than no 2FA  
+   - better than no 2FA
+     
+<br>  
 
-
-3. Authenticator App (or password manager such as: keepassxc)
+**3. Authenticator App (or password manager such as: keepassxc)**
    - harder setup
    - more secure than sms
    - better option than sms  
 
+  <br>
 
-5. Security Key (yubikey or similar)
-    - hardest setup
+**5. Security Key (yubikey or similar)**
+    - hardest setup (can be confusing)
     - best security
-    - best overall      
+    - best overall  
 
+  <br>
+  
 
-6. Mobile App (phone app)
+**6. Mobile App (phone app)**
     - have not tried
 
+  <br>
 
-<br>
-
-Recovery Codes  
+**Recovery Codes**  
     Always keep your recovery codes in a seperate safe place.  
     You will need these in case you loose access to other methods.
 
 <br>  
 
-Passkeys (optional)  
+**Passkeys (optional)**  
     Passkeys are a seperate option from 2FA and not required  
     You can use these for personal convenience  
