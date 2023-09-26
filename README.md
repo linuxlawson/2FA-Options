@@ -9,14 +9,14 @@
      
 <br>  
 
-**2. Authenticator App (or password manager such as: keepassxc)**  
+**2. Authenticator App** (or password manager such as: keepassxc)  
    - harder setup
    - more secure than sms
    - better option than sms  
 
   <br>  
 
-**3. Security Key (yubikey or similar)**  
+**3. Security Key** (yubikey or similar)  
    - hardest setup (can be confusing)  
    - best security  
    - best overall  
@@ -24,13 +24,14 @@
   <br>  
   
 
-**4. Mobile App (phone app)**  
+**4. Mobile App** (phone app)  
    - have not tried
 
+  <br>  
   <br>
 
 **Recovery Codes**  
-    Always keep your recovery codes in a seperate safe place.  
+    Always keep recovery codes in a seperate safe place.  
     You will need these in case you loose access to other methods.
 
 <br>  
