@@ -1,6 +1,7 @@
 ### 2FA-Options  
-Just a little write-up on 2FA, for personal reference really.  
-Mostly a matter of preference. Below is just my own opinion.  
+Just a few notes on 2FA, for personal reference really.  
+This is mostly a matter of personal preference.  
+Below is just my own opinion.  
 
 <br>
 
@@ -37,7 +38,7 @@ Mostly a matter of preference. Below is just my own opinion.
 
 **Recovery Codes**  
     Always keep recovery codes in a seperate safe place.  
-    You will need these in case you loose access to other methods.
+    You will need these in case you lose access to other methods.
 
 <br>  
 
