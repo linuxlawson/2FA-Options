@@ -45,4 +45,9 @@ Notes below are just my opinion on the matter.
 **Passkeys (optional)**  
     Passkeys are a seperate option from 2FA and not required.    
     You can use these for personal convenience.  
+
+<br>
+
+**Note:** If you want to use KeePassXC as your Authenticator App, here is a good tutorial for doing that:  
+https://www.linux.org/threads/in-depth-tutorial-how-to-set-up-2fa-totp-with-keepassxc-aegis-and-authy.36577/
     
