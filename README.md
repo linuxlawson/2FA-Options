@@ -1,6 +1,6 @@
 ### 2FA-Options  
-Just for personal reference really.  
-Below is just a little info I gathered, also just my personal opinion.  
+Just a little write-up on 2FA, for personal reference really.  
+Mostly a matter of preference. Below is just my own opinion.  
 
 <br>
 
