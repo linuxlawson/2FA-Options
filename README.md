@@ -1,7 +1,7 @@
 ### 2FA-Options  
 Just a few notes on 2FA, for personal reference really.  
 This is mostly a matter of personal preference.  
-Below are just my own thoughts on the matter.
+Notes below are just my opinion on the matter.
 
 <br>
 
