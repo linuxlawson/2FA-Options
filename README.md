@@ -9,7 +9,7 @@ Notes below are just my opinion on the matter.
 **1. SMS/Text message**  
    - easy setup
    - least secure
-   - least convenient
+   - least convenient (must have phone with you, and turned on to sign in)
    - better than no 2FA
      
 <br>  
@@ -24,7 +24,7 @@ Notes below are just my opinion on the matter.
 
 **3. Security Key** (yubikey or similar)  
    - hardest setup (can be confusing if not familiar)  
-   - best security (requires physical device (usb) be plugged into computer)
+   - very secure (requires physical device (usb) be plugged into computer)
    - convenient    
    - best overall  
 
@@ -49,6 +49,5 @@ Notes below are just my opinion on the matter.
 
 <br>
 
-**Note:** If you want to use KeePassXC as your Authenticator App,  
-here is a good tutorial for doing that: [KeePassXC Tutorial](https://www.linux.org/threads/in-depth-tutorial-how-to-set-up-2fa-totp-with-keepassxc-aegis-and-authy.36577/)
+**Good Tutorial** for using KeePassXC as your Authenticator App: [KeePassXC Tutorial](https://www.linux.org/threads/in-depth-tutorial-how-to-set-up-2fa-totp-with-keepassxc-aegis-and-authy.36577/)
     
