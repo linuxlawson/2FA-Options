@@ -7,29 +7,29 @@ Notes below are just my opinion on the matter.
 <br>
 
 **1. SMS/Text message**  
-   - easy setup
-   - least secure
-   - least convenient (must have phone with you, and powered on to sign in)
-   - better than no 2FA
-   - cost: free (assuming you have a phone)
+   - Easy setup
+   - Least secure
+   - Least convenient (must have phone with you, and powered on to sign in)
+   - Better than no 2FA
+   - Cost: free (assuming you have a phone)
      
 <br>  
 
 **2. Authenticator App** (or password manager such as KeePassXC)  
-   - harder setup (if not familiar)  
-   - more secure than sms
-   - more convenient (requires additional steps but no phone needed)
-   - better option than sms
-   - cost: free  
+   - Harder setup (if not familiar)  
+   - More secure than sms
+   - More convenient (requires additional steps but no phone needed)
+   - Better option than sms
+   - Cost: free  
 
   <br>  
 
 **3. Security Key** (yubikey or similar)  
-   - hardest setup (can be confusing if not familiar)  
-   - very secure (requires physical device (usb) be plugged into computer)
-   - convenient    
-   - best overall
-   - cost: yubikeys can be had for around $30.00  
+   - Hardest setup (can be confusing if not familiar)  
+   - Very secure (requires physical device (usb) be plugged into computer)
+   - Convenient    
+   - Best overall
+   - Cost: Yubikeys can be had for around $30.00  
 
   <br>  
   
