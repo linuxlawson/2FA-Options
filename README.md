@@ -9,7 +9,7 @@ Notes below are just my opinion on the matter.
 **1. SMS/Text message**  
    - easy setup
    - least secure
-   - least convenient (must have phone with you, and turned on to sign in)
+   - least convenient (must have phone with you, and powered on to sign in)
    - better than no 2FA
      
 <br>  
@@ -17,7 +17,7 @@ Notes below are just my opinion on the matter.
 **2. Authenticator App** (or password manager such as: keepassxc)  
    - harder setup (if not familiar)  
    - more secure than sms
-   - more convenient 
+   - more convenient (requires additional steps but no phone needed)
    - better option than sms  
 
   <br>  
@@ -34,8 +34,7 @@ Notes below are just my opinion on the matter.
 **4. Mobile App** (phone app)  
    - have not tried
 
-  <br>  
-  <br>
+  <br><br>
 
 **Recovery Codes**  
     Always keep recovery codes in a seperate safe place.  
