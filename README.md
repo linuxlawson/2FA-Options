@@ -25,7 +25,7 @@ Notes below are just my opinion on the matter.
   <br>  
 
 **3. Security Key** (yubikey or similar)  
-   - Hardest setup (can be confusing if not familiar)  
+   - Easy  
    - Very secure (requires physical device (usb) be plugged into computer)
    - Convenient    
    - Best overall
