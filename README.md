@@ -26,7 +26,7 @@ Notes below are just my opinion on the matter.
 
 **3. Security Key** (yubikey or similar)  
    - Easy  
-   - Very secure (requires physical device (usb) be plugged into computer)
+   - Very secure (requires physical device (usb) be plugged in)
    - Convenient    
    - Best overall
    - Cost: Yubikeys can be had for around $30.00  
@@ -51,8 +51,9 @@ Notes below are just my opinion on the matter.
 
 <br>
 
-**Good Tutorial** for using KeePassXC as your Authenticator App: [KeePassXC Tutorial](https://www.linux.org/threads/in-depth-tutorial-how-to-set-up-2fa-totp-with-keepassxc-aegis-and-authy.36577/)  
-KeePassXC (free)  
+**Good Tutorial** for using KeePassXC as your Authenticator App: [KeePassXC Tutorial](https://www.linux.org/threads/in-depth-tutorial-how-to-set-up-2fa-totp-with-keepassxc-aegis-and-authy.36577/)    
+
+
 
 
     
