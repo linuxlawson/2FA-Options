@@ -34,7 +34,7 @@ Notes below are just my opinion on the matter.
   <br>  
   
 
-**4. Mobile App** (phone app)  
+**4. Mobile App**
    - have not tried
 
   <br><br>
